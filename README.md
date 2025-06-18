@@ -43,11 +43,11 @@
 ## ⚙️ Deploy Easily
 
 ### 🔑 Get Your Session ID
-[![NOVA-MD SESSION](https://img.shields.io/badge/NOVA%20-MD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://jon-snow-tech-bot-web.onrender.com/)
+[![NOVA-MD SESSION](https://img.shields.io/badge/NOVA%20-MD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://session-id-9khf.onrender.com)
 
 
 ### 🔑 Get PAIR CODE
-[![NOVA-MD PAIR](https://img.shields.io/badge/NOVA%20-MD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://jon-snow-tech-bot-web.onrender.com/pair)
+[![NOVA-MD PAIR](https://img.shields.io/badge/NOVA%20-MD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://session-id-9khf.onrender.com)
 
 
 ---
