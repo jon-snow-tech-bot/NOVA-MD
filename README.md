@@ -1,127 +1,98 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=80&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&height=200&lines=NOVA-MD;VERSION+2025;BY+JON+SNOW" alt="Typing SVG" />
-  </a>
-</p>
-
-<h1 align="center">✨ THE NEXT GEN WHATSAPP BOT ✨<br>BY JON-SNOW</h1>
-
----
-
-<p align="center">
-  <img src="https://files.catbox.moe/621a36.jpg" width="700"/>
-</p>
-
----
-
-<p align="center">
-  <a href="https://github.com/jon-snow-tech-bot">
-    <img title="Author" src="https://img.shields.io/badge/Author-JON%20SNOW-ff004d?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://whatsapp.com/channel/0029VbB2p44KWEKt0C6sx225">
-    <img title="Join WhatsApp Channel" src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=80&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&height=200&lines=NOVA+MD+V1;VERSION+1.0.0;BY+JON+SNOW+TECH" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/NOVA-MD/count.svg" alt="Visitor Count" />
+  <img src="https://files.catbox.moe/621a36.jpg" width="800"/>
 </p>
-
 ---
 
-## ✨ Features
+## ⭐ Fork the Repository
 
-- ✅ QR Code Generator for WhatsApp Pairing  
-- ✅ Session Sharing System  
-- ✅ Fully Open Source  
-- ✅ Auto QR to DM  
-- ✅ Session ID Generator (`NOVA-SESSION-ID`)  
-- ✅ Multi Deploy Options (Render, Heroku, Koyeb, etc.)
+Click the button below to fork the repository and get your own copy:
 
----
-
-## ⚙️ Deploy Easily
-
-### 🔑 Get Your Session ID
-[![NOVA-MD SESSION](https://img.shields.io/badge/NOVA%20-MD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://session-id-9khf.onrender.com)
-
-
-### 🔑 Get PAIR CODE
-[![NOVA-MD PAIR](https://img.shields.io/badge/NOVA%20-MD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://session-id-9khf.onrender.com)
+[![FORK REPO](https://img.shields.io/badge/FORK%20REPO-Click%20Here-007ACC?style=for-the-badge&logo=github)](https://github.com/jon-snow-tech-bot/NOVA-MD/fork)
 
 
 ---
+## ⚙️ GET YOUR SESSION
 
-### 🚀 Fork This Repo
+[![PAIR CODE](https://img.shields.io/badge/GET%20SESSION_ID-Generate%20Now-4CAF50?style=for-the-badge&logo=whatsapp)](https://session-id-cuae.onrender.com)
 
-<p align="center">
-  <a href="https://github.com/jon-snow-tech-bot/NOVA-MD/fork">
-    <img src="https://img.shields.io/badge/Fork%20This-Repository-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+---
+## ⌛ WHATSAPP CHANNEL SUPPORT 
+
+[![INCONNU BOY TECH](https://img.shields.io/badge/JOIN%20MY-WHATSAPP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VbB2p44KWEKt0C6sx225)
 
 ---
 
-### ☁️ Deploy To Platforms
+## 🚀 Quick Deployment Options
 
-<p align="center">
-  <a href="https://replit.com/github/jon-snow-tech-bot/NOVA-MD">
-    <img src="https://img.shields.io/badge/Deploy%20To%20Replit-FFA500?style=for-the-badge&logo=replit&logoColor=white" />
-  </a>
-  <a href="https://railway.app/new/template?template=https://github.com/jon-snow-tech-bot/NOVA-MD">
-    <img src="https://img.shields.io/badge/Deploy%20To%20Railway-8B5CF6?style=for-the-badge&logo=railway&logoColor=white" />
-  </a>
-  <a href="https://render.com/">
-    <img src="https://img.shields.io/badge/Deploy%20To%20Render-06B6D4?style=for-the-badge&logo=render&logoColor=white" />
-  </a>
-</p>
+### <br>   DEPLOY_HEROKU 
 
-<p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/jon-snow-tech-bot/NOVA-MD/tree/main">
-    <img src="https://img.shields.io/badge/Deploy-Heroku-FF004D?style=for-the-badge&logo=heroku&logoColor=white" />
-  </a>
-  <a href="https://host.talkdrove.com/share-bot/82">
-    <img src="https://img.shields.io/badge/Deploy-TaikDrove-6971FF?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  </a>
-  <a href="https://app.koyeb.com/services/deploy?type=git&repository=jon-snow-tech-bot/NOVA-MD-V1&ports=3000">
-    <img src="https://img.shields.io/badge/Deploy-Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white" />
-  </a>
-</p>
+------------
+ 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/jon-snow-tech-bot/NOVA-MD)
 
----
+----------
 
-### 📦 Download the Bot File
+### <br>   DEPLOY_TALKDROVE 
 
-<p align="center">
-  <a href="https://github.com/jon-snow-tech-bot/NOVA-MD/archive/refs/heads/main.zip">
-    <img src="https://img.shields.io/badge/Download%20Bot-file-FF009D?style=for-the-badge&logo=github&logoColor=white" alt="Download Bot File" />
-  </a>
-</p>
+<a href='https://host.talkdrove.com/dashboard/select-bot/prepare-deployment?botId=51' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY-NOW-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
 
----
+----------
 
-### ⚙️ Configuration `.env` File
+### <br>    DEPLOY_REPLIT 
 
-```env
-SESSION_ID="NOVA~MD~"
-AUTO_READ_STATUS=true
-STATUS_READ_MSG="*Status Seen By NOVA-MD⚡*"
-AUTO_STATUS_REPLY=false
-AUTO_REJECT_CALLS=false
-MODE="public"
-WELCOME=false
-AUTO_READ_MESSAGES=false
-AUTO_TYPING=false
-OWNER_NAME="JON-SNOW"
-OWNER_NUMBER="50949100359"
-AUTO_RECORDING=false
-ALWAYS_ONLINE=false
-AUTO_BLOCK=true
-AUTO_REACT=false
-PREFIX="."
+-------------
+
+<p align="left"><a href="https://repl.it/github/jon-snow-tech-bot/NOVA-MD"> <img src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
+
+--------------
+
+### <br>   DEPLOY_KOYEB 
+---------
+
+<a href='https://app.koyeb.com/auth/signin' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-KOYEB-blue?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+
+------------
+
+### <br>   DEPLOY_RAILWAY 
+
+
+-------------
+
+<a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RAILWAY-h?color=black&style=for-the-badge&logo=railway'/></a></p>
+
+---------------
+
+### <br>  MORE DEPLOY METHOD 
+
+--------
+
+### <br>    DEPLOY_GLITCH 
+
+<a href='https://glitch.com/signup' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/GLITCH-h?color=pink&style=for-the-badge&logo=glitch'/></a></p>
+
+--------
+
+### <br>    DEPLOY_CODESPACE 
+
+<a href='https://github.com/codespaces/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/CODESPACE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
+
+--------
+
+### <br>    DEPLOY_RENDER 
+
+<a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RENDER-h?color=maroon&style=for-the-badge&logo=render'/></a></p>
+
+
+
+⚡ DEPLOY ON WORKFLOW ⚡
+
 ```
-
-``` DEPLOY ON WORKFLOW ⚡
 
 name: Node.js CI
 
@@ -166,11 +137,11 @@ jobs:
     - name: Save state (Optional)
       run: |
         ./save_state.sh
-
 ```
 
 ## ❤️ Credits
-[![GitHub - jon-snow-tech-bot](https://img.shields.io/badge/GitHub-jon-snow--tech-bot-181717?style=for-the-badge&logo=github)](https://github.com/jon-snow-tech-bot)
+[![GitHub - jon-snow-tech-bot](https://img.shields.io/badge/GitHub-jon-snow--tceh-bot-181717?style=for-the-badge&logo=github)](https://github.com/jon-snow-tech-bot)
 
 ---
-[![ THANKS TO jon-snow-tech-bot](https://img.shields.io/badge/GitHub-jon-snow--tech-bot-181717?style=for-the-badge&logo=github)](https://github.com/jon-snow-tech-bot)
+
+![MADE BY jon-snow](https://img.shields.io/badge/MADE%20BY-jon%20snow-blueviolet?style=for-the-badge&logo=markdown)
